@@ -13,7 +13,7 @@
     {
       "id": "module",
       "name": "Module Name",
-      "type": "text",
+      "type": "string",
       "default": "example.com",
       "required": true
     }
